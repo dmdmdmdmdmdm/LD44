@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow
+  - Blade1
+  - Blade2
+  - SpinTrap
+  - SpinTrapNoMove
+  - SpikeTrap
+  - SpikeTrapActive
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TrapsFront
+    uniqueID: 663655495
+    locked: 0
+  - name: Traps
+    uniqueID: 3346950149
+    locked: 0
+  - name: Player
+    uniqueID: 3157814419
+    locked: 0
+  - name: Background
+    uniqueID: 1081167947
+    locked: 0
